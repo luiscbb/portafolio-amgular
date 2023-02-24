@@ -1,0 +1,25 @@
+{
+  "equipo": [
+    {
+      "frase": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor.",
+      "nombre": "Luis Carlos",
+      "subtitulo": "Instructor",
+      "twitter": "@luiscb",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-460e0.appspot.com/o/team-1.jpg?alt=media&token=fe5db0cd-037d-4874-a67a-f97b478ec29d"
+    },
+    {
+      "frase": "Ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit.",
+      "nombre": "Albertina",
+      "subtitulo": "Scrum Master",
+      "twitter": "@albertina_34",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-460e0.appspot.com/o/team-2.jpg?alt=media&token=cbb6f561-e944-4e6c-9d66-85cc70d02456"
+    },
+    {
+      "frase": "Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
+      "nombre": "Jairo",
+      "subtitulo": "Project Manager",
+      "twitter": "@jairosoto90",
+      "url": "https://firebasestorage.googleapis.com/v0/b/angular-html-460e0.appspot.com/o/team-3.jpg?alt=media&token=555d140d-2e5e-416b-9dbf-3951eb3911ff"
+    }
+  ]
+}
